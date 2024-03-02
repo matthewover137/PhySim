@@ -1,4 +1,5 @@
 #guided by https://ipython-books.github.io/133-simulating-a-brownian-motion/
+#adding animation to steps
 import numpy as np
 import matplotlib.pyplot as plt
 
