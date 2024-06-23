@@ -36,6 +36,8 @@ massArray = np.linspace(0, m2, n+1)
 for m in massArray:
     ax.scatter(m, TotalCollisions(m))
 
+#TODO regression on curve 
+
 plt.show()
     
 
